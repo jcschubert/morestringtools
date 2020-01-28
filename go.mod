@@ -1,3 +1,3 @@
-module github.com/jcschubert/go-reverse
+module github.com/jcschubert/morestringtools
 
 go 1.13
